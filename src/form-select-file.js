@@ -76,7 +76,7 @@ export default function FormSelectFile() {
             multiple
           />
         </div>
-        <div className="text-center mb-4">
+        <div className="text-center mt4">
           <button
             type="button"
             className="btn btn-sm btn-primary px-4"
